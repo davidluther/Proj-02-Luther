@@ -19,11 +19,3 @@ In this case, the MVP will focus on one airline with the target being expected d
 If this runs successfully, I will A) add in other features, roughly in the order listed, and/or B) create a model for each airline serving the airport.
 
 I will focus only on commercial flights, filtering out all non-com flights by using RE to catch N-numbers.
-
-## Data Sources
-Potential sites for scraping:
-* [FlightAware](https://flightaware.com/)
-* [FlightStats](http://www.flightstats.com/go/Home/home.do)
-* [Flight Data Services](https://www.flightdataservices.com/)
-* [Flightradar24](https://www.flightradar24.com/data/)
-
