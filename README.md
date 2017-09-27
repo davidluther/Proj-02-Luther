@@ -7,7 +7,7 @@ The intial idea is to create a model that tries to predict the expected delay fo
 1. Day of week
 1. Airline
 1. Airport of origin
-1. istance from origin to destination
+1. Distance from origin to destination
 1. Month of year
 1. Day of year
 1. Local weather
