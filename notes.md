@@ -41,3 +41,4 @@ Not sure what exaclty this is...
 * Appending a number to the end of it will display up to that number of records, and will not break if the number is very large (e.g. AAL321 displays somewhere around 160 records, and they will all display if 2000 is added to the end of the link). *This provides data for the last four months.*
 * Clicking on the date provides a page for that individual flight: http://flightaware.com/live/flight/AAL321/history/20170928/0130Z/KLGA/KORD
 * One could easily just fill in the date here, and while the flight number is not unique to that route, the 0130Z is. This page provides all sorts of stats, including sched/actual arrival time, average price per ticket, etc.
+* **BUT WAIT...** Even if you reach the last link on the history page, it can be hacked by changing the date in the URL. Not sure what the limit is on this one.
