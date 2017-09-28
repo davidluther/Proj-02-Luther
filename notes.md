@@ -1,4 +1,4 @@
-# Modeling Arrival Delay at TVC
+# Modeling Arrival Delay at [Airport]
 
 ## Potential Data Sources
 * [FlightAware](https://flightaware.com/)
