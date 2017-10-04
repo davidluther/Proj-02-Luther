@@ -1,0 +1,11 @@
+http://flightaware.com/live/flight/AAL328/history/20170929/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170927/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170922/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170920/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170903/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170827/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170812/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170803/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170628/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170524/1430Z/KLGA/KORD
+http://flightaware.com/live/flight/AAL328/history/20170409/1430Z/KLGA/KORD
