@@ -3,19 +3,26 @@ Web Scraping and Linear Regression
 ---
 
 ## Overview
-The intial idea is to create a model that tries to predict the expected delay for arriving flights at a particular airport. I will start with the LGA-ORD route, and try to scrape from one (or more) of the popular flight database sites, going back as far as I can. Possible features include, but are not limited to:
+Being an aviation enthusiast of many years, I chose to look at a common complaint of many air travelers: delay. Would there be a way to predict, with any accuracy, the degree to which one might be late on a particular flight? For the scope of this project, I focused on arrivals at one airport (ORD) from one origin (LGA) operated by one airline (American). I collected available arrival information by scraping data from FlightAware.com. It was my hypothesis that some correlation might be found between lateness (actual arrival minus scheduled arrival) and both day of week and time of day. I used these features and others to build a linear regression model in an attempt to predict the lateness of flights on this route.
 
-1. Scheduled arrival time
-1. Day of week
-1. Airline
-1. Airport of origin
-1. Distance from origin to destination
-1. Month of year
-1. Day of year
-1. Local weather
+## Folder Contents
 
-In this case, the MVP will focus on one route (LGA-ORD) and one airline with the target being expected delay (minutes) and a single feature, day of the week.
+### Code
 
-If this runs successfully, I will A) add in other features, roughly in the order listed, and/or B) create a model for each airline serving the airport.
+Contains all Jupyter notebooks used throughout the project. 
+* **0-Luther-Prelim:** initial exploration of scraping requirements
+* **1-Luther-Scraping:** more refined code and process for scraping
+* **2-Luther-Cleaning-Exploration:** cleaning function, exploration of data, assorted visualizations, cleaning draft
+* **3-Luther-Regression:** steps to building final regression model, test on validation set
 
-I will focus only on commercial flights, filtering out all non-com flights by using RE to catch N-numbers.
+### Img
+
+Image files saved for presentation and/or blog.
+
+### Data
+
+Contains .pkl files generated throughout, as well as .txt files of links missed during first passes of scraping.
+
+### Presentation
+
+PDF of final presentation.
