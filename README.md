@@ -1,5 +1,4 @@
 # Proj-02-Luther
-Web Scraping and Linear Regression
 
 ---
 
