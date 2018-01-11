@@ -1,3 +1,0 @@
-http://flightaware.com/live/flight/AAL383/history/20171003/2200Z/KLGA/KORD
-http://flightaware.com/live/flight/AAL187/history/20170929/1830Z/KLGA/KORD
-http://flightaware.com/live/flight/AAL289/history/20171003/1130Z/KLGA/KORD
